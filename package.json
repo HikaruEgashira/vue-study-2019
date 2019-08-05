@@ -20,7 +20,7 @@
     "@vue/cli-plugin-babel": "^3.2.0",
     "@vue/cli-plugin-pwa": "^3.2.0",
     "@vue/cli-plugin-typescript": "^3.2.0",
-    "@vue/cli-service": "^3.2.0",
+    "@vue/cli-service": "^3.10.0",
     "lint-staged": "^8.1.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
